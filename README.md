@@ -1,4 +1,4 @@
-# Custom Backdoor Exploitation on Metasploitable 2
+# Developing a Custom Backdoor and Reverse Shell Exploitation on Metasploitable 2
 
 ## Overview  
 This project demonstrates the development and deployment of a custom reverse shell backdoor targeting the vulnerable Metasploitable 2 virtual machine. It simulates a real-world cyberattack scenario to understand how attackers exploit systems to gain unauthorized remote access using reverse shells and post-exploitation techniques.
